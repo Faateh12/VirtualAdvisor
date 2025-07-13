@@ -1,0 +1,9 @@
+{
+  "question": "How can I reset my student portal password?",
+  "answer": "You can reset your password at https://portal.university.edu/reset by following the prompts.",
+  "category": "Enrollment",
+  "tags": ["password", "reset", "student portal", "login"],
+  "source_url": "https://portal.university.edu/help",
+  "priority": "high",
+  "last_updated": "2025-07-10"
+}
