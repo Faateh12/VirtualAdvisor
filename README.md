@@ -48,6 +48,12 @@ pip install -r requirements.txt
 
 ## Running the Application
 
+### 0. Prepare your Python environment
+Using Conda or Mambaforge, install the required dependencies:
+```
+mamba env create -f env.yml
+```
+
 ### 1. Start the Flask Backend
 Navigate to the `backend` folder and run the Flask app:
 ```bash
